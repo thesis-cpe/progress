@@ -109,7 +109,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                                         <div class="icon">
                                             <i class="fa fa-database"></i>
                                         </div>
-                                        <a href="main-data.php" class="small-box-footer">
+                                        <a href="main_data" class="small-box-footer">
                                             แสดงข้อมูลลูกค้าและพนักงาน <i class="fa fa-arrow-circle-right"></i>
                                         </a>
                                     </div>
@@ -125,7 +125,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                                         <div class="icon">
                                             <i class="fa fa fa-group"></i>
                                         </div>
-                                        <a href="project.php" class="small-box-footer">
+                                        <a href="project" class="small-box-footer">
                                             เปิดโครงการและจัดการทีมงาน <i class="fa fa-arrow-circle-right"></i>
                                         </a>
                                     </div>
@@ -141,7 +141,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                                         <div class="icon">
                                             <i class="fa fa-tasks"></i>
                                         </div>
-                                        <a href="daily-work.php" class="small-box-footer">
+                                        <a href="dailywork" class="small-box-footer">
                                             บันทึกข้อมูลงานประจำวัน <i class="fa fa-arrow-circle-right"></i>
                                         </a>
                                     </div>
