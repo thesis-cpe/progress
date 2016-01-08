@@ -23,8 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-//$config['base_url'] = '';
-
+$config['base_url'] = '';
 
 /*
 |--------------------------------------------------------------------------
@@ -37,7 +36,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 $config['index_page'] = 'index.php';
-
 
 /*
 |--------------------------------------------------------------------------
@@ -54,8 +52,8 @@ $config['index_page'] = 'index.php';
 |
 | WARNING: If you set this to 'PATH_INFO', URIs will always be URL-decoded!
 */
-//$config['uri_protocol']	= 'REQUEST_URI';
 $config['uri_protocol']	= 'REQUEST_URI';
+
 /*
 |--------------------------------------------------------------------------
 | URL suffix
@@ -316,7 +314,6 @@ $config['cache_query_string'] = FALSE;
 | http://codeigniter.com/user_guide/libraries/encryption.html
 |
 */
-//$config['encryption_key'] = '';
 $config['encryption_key'] = '';
 
 /*
